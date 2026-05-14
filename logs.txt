@@ -1,0 +1,3 @@
+2026-05-14 00:33:39,663 - ERROR - El nombre del cliente es inválido.
+2026-05-14 00:33:39,663 - ERROR - La tarifa debe ser mayor que cero.
+2026-05-14 00:33:39,664 - ERROR - La duración de la reserva es inválida.
