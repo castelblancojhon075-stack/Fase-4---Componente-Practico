@@ -1,3 +1,13 @@
 2026-05-14 00:33:39,663 - ERROR - El nombre del cliente es inválido.
 2026-05-14 00:33:39,663 - ERROR - La tarifa debe ser mayor que cero.
 2026-05-14 00:33:39,664 - ERROR - La duración de la reserva es inválida.
+2026-05-14 01:00:53,540 - ERROR - Can't instantiate abstract class Cliente with abstract method mostrar_info
+2026-05-14 01:00:53,541 - ERROR - Can't instantiate abstract class Cliente with abstract method mostrar_info
+2026-05-14 01:00:53,541 - INFO - Servicio agregado: Sala Premium
+2026-05-14 01:00:53,541 - INFO - Servicio agregado: Computadores
+2026-05-14 01:00:53,541 - INFO - Servicio agregado: Consultoría TI
+2026-05-14 01:00:53,541 - ERROR - La tarifa debe ser mayor que cero.
+2026-05-14 01:00:53,541 - ERROR - name 'cliente1' is not defined
+2026-05-14 01:00:53,545 - ERROR - name 'cliente1' is not defined
+2026-05-14 01:00:53,545 - ERROR - name 'cliente1' is not defined
+2026-05-14 01:00:53,545 - ERROR - name 'cliente1' is not defined
